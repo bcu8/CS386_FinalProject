@@ -1,11 +1,18 @@
-# CS386_FinalProject
-Code formatter for weekly projects in Leverington's CS136 and CS249
+#**CS386_FinalProject**
 
-The program has at least one bug which can be seen in the mp4 video. At some point the program starts adding waaay too many indentations. 
+###This is a Code formatter for weekly projects in Leverington's CS136 and CS249 classes.
 
+###TODO
+*Fix bug causing too many indentations
+
+*Add feature to count how many violations/points were saved
+
+*Other ideas?
+
+###About
 Source code is found in CodeFormatter.c, the compiled exe file is also included
 
-SetUtilitiesThree.c is the test file, though the formatter should be able to handle any .c file no matter the prior formatting, as long as it doesn't have and compiling errors.
+SetUtilitiesThree.c is the current test file, though the formatter should be able to handle any .c file no matter the prior formatting, as long as it doesn't have any compiling errors.
 
-If my code is too messy we can choose start from scratch if you want
+The recompiling folder is for making changes to the .exe file. More info is included in the readme for that folder.
 
